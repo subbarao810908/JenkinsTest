@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoGitApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Main Branch Changed");
 		SpringApplication.run(DemoGitApplication.class, args);
 	}
 
