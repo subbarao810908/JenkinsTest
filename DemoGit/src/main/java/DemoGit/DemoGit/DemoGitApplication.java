@@ -10,7 +10,8 @@ public class DemoGitApplication {
 		System.out.println("Main Branch Changed");
 		SpringApplication.run(DemoGitApplication.class, args);
 		System.out.println("2nd Commit");
-		System.out.println("3nd Commit");
+		System.out.println("3nd Commit ");
+		System.out.println("3nd Commit and 4th Commit ");
 
 
 	}
