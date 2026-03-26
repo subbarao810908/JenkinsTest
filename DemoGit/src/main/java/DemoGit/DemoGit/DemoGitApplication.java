@@ -13,6 +13,8 @@ public class DemoGitApplication {
 		System.out.println("3nd Commit ");
 		System.out.println("3nd Commit and 4th Commit ");
 		System.out.println("X");
+		System.out.println("A");
+
 
 
 	}
