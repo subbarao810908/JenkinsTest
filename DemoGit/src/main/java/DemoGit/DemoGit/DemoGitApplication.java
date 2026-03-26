@@ -11,6 +11,7 @@ public class DemoGitApplication {
 		SpringApplication.run(DemoGitApplication.class, args);
 		System.out.println("X");
 		System.out.println("A");
+		System.out.println("B");
 
 
 
