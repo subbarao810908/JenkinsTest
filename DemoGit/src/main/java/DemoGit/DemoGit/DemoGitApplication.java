@@ -9,7 +9,7 @@ public class DemoGitApplication {
 	public static void main(String[] args) {
 		System.out.println("Main Branch Changed");
 		SpringApplication.run(DemoGitApplication.class, args);
-				System.out.println("X");
+		System.out.println("X");
 
 
 	}
