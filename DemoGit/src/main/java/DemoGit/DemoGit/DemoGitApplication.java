@@ -13,6 +13,8 @@ public class DemoGitApplication {
 		System.out.println("A");
 		System.out.println("B");
 		System.out.println("C");
+		System.out.println("DemoGitApplication Project");
+
 
 
 
